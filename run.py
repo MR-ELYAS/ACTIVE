@@ -8,5 +8,6 @@ time.sleep(2)
 os.system("xdg-open https://t.me/KingMazar")
 
 print("\033[1;32mYOU CAN USE /ACTIVE")
+time.sleep(3)
 
 import ACTIVE
